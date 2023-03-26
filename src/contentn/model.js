@@ -5,14 +5,14 @@ const cv = {
     paragraphs: [
       {
         text: `Jeg er en dreven ung kar med mye variert erfaring. Jeg har 5 års
-              erfaring som teknisk tegner, men ønskier nå å gjøre en kariære
+              erfaring som teknisk tegner, men ønsker nå å gjøre en karriere
               endring.`,
       },
       {
         text: `
-              Jeg har nå drivet med programering i litt over ett halvt år. Jeg har
-              jobbet med Java og Python, men har drivet absolut mest med HTML, CSS
-              og Java Script.
+        Jeg har nå drevet med programmering i litt over et halvt år. 
+        Jeg har jobbet med C#, Java og Python, men har drivet absolutt 
+        mest med HTML, CSS og Java Script.
               `,
       },
     ],
@@ -40,16 +40,16 @@ const cv = {
     paragraphs: [
       {
         title: "(2019 - Nå) Teknisk tegner: Bakaas Cadconsult AS",
-        text: `I min rolle som teknisk tegner hos Bakaas Cad Consult produserer
+        text: `I min rolle som teknisk tegner hos Bakaas Cadconsult AS produserer
               og oppdaterer jeg plantegninger og fag tegninger. En stor del av
-              arbeids dagen betår av tegning, fil behandling, organisjon og
-              komunikasjon med kunder.`,
+              arbeidsdagen består av tegning, filbehandling, organisering og
+              kommunikasjon med kunder.`,
       },
       {
         title: "(2016 - 2020) Teknisk tegner / konstruktør: Systemblokk",
-        text: `Hos Systemblokk jobbet jeg tett på prosjetk ledere, arkitekter,
-          enginører, produksjons lederen og fabrikk arbeidere. Hverdagen min
-          besto hovedsakelig av selvstendig arbeid, komunisere med
+        text: `Hos Systemblokk jobbet jeg tett på prosjektledere, arkitekter,
+          ingeniører, produksjons ledere og fabrikk arbeidere. Hverdagen min
+          besto hovedsakelig av selvstendig arbeid, kommunisere med
           medarbeidere, modellering og produksjon av produksjons tegninger`,
       },
     ],
@@ -60,7 +60,7 @@ const cv = {
       {
         title: "(2022 - 2023) GET Academy",
         text: `Gjennom utdannelse min på GET Academy har jeg utviklet en
-            grunnlegende og solid kompetanse innenfor front end og back end, med
+            grunnleggende og solid kompetanse innenfor frontend og backend, med
             spesielt fokus på HTML, CSS , Javascript og C#. Jeg har også lært å
             følge design patterns som MVC og prinsipper som DRY.`,
       },
@@ -70,15 +70,15 @@ const cv = {
       },
       {
         title: "(2021 - 2022) Automasjon Vg2",
-        text: `Dette var hvor jeg fant min interesse for programering. Dette
-          førte til en sommer hvor jeg lærte meg hvordan programmere med
-          Java og deretter at jeg startet på GET Academt.`,
+        text: `Det var her jeg oppdaget min interesse for programmering, 
+        noe som ledet til en sommer hvor jeg lærte å programmere med Java 
+        og deretter begynte på GET Academy.`,
       },
       {
         title: "(2016 - 2017) Elektro Vg2",
-        text: `Etter ett havlt år fant jeg ut at jeg ikke var intresert i å være
-          en elektrikker og jeg var heldig nokk til å få ett jobb tilbud fra
-          Systemblokk der jeg hadde sommer jobb`,
+        text: `Etter et halvt år fant jeg ut at jeg ikke var interessert 
+        i å være elektriker, og jeg var heldig nok til å få et jobbtilbud 
+        fra Systemblokk, hvor jeg allerede hadde sommerjobb.`,
       },
       {
         title: "(2015 - 2016) Elektro Vg1",
