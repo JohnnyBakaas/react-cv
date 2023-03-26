@@ -80,7 +80,7 @@ Error generating stack: `+o.message+`
         Jeg har nå drevet med programmering i litt over et halvt år. 
         Jeg har jobbet med C#, Java og Python, men har drivet absolutt 
         mest med HTML, CSS og Java Script.
-              `}]},projects:{title:"Prosjekter",paragraphs:[{link:"https://telemarkinterior.no/Expremi/index.html",linkText:"Telemark interior"},{link:"https://johnnybakaas.github.io/Snake-med-JS/",linkText:"Snake"},{link:"https://johnnybakaas.github.io/three.js-Test/vite-project/dist/",linkText:"Bubble-sort visualisering",text:"ADVARSEL dette prosjektet har en stor memory leak."}]},workExperience:{title:"Arbeids erfaring",paragraphs:[{title:"(2019 - Nå) Teknisk tegner: Bakaas Cadconsult AS",text:`I min rolle som teknisk tegner hos Bakaas Cadconsult AS produserer
+              `}]},projects:{title:"Prosjekter",paragraphs:[{link:"https://telemarkinterior.no/Expremi/index.html",linkText:"Telemark interior"},{link:"https://johnnybakaas.github.io/Snake-med-JS/",linkText:"Snake"},{link:"https://johnnybakaas.github.io/three.js-Test/vite-project/dist/",linkText:"Bubble-sort visualisering",text:"ADVARSEL dette prosjektet har en stor memory leak."}]},workExperience:{title:"Arbeidserfaring",paragraphs:[{title:"(2019 - Nå) Teknisk tegner: Bakaas Cadconsult AS",text:`I min rolle som teknisk tegner hos Bakaas Cadconsult AS produserer
               og oppdaterer jeg plantegninger og fag tegninger. En stor del av
               arbeidsdagen består av tegning, filbehandling, organisering og
               kommunikasjon med kunder.`},{title:"(2016 - 2020) Teknisk tegner / konstruktør: Systemblokk",text:`Hos Systemblokk jobbet jeg tett på prosjektledere, arkitekter,
