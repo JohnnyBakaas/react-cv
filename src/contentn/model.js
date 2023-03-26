@@ -36,7 +36,7 @@ const cv = {
     ],
   },
   workExperience: {
-    title: "Arbeids erfaring",
+    title: "Arbeidserfaring",
     paragraphs: [
       {
         title: "(2019 - Nå) Teknisk tegner: Bakaas Cadconsult AS",
@@ -59,7 +59,7 @@ const cv = {
     paragraphs: [
       {
         title: "(2022 - 2023) GET Academy",
-        text: `Gjennom utdannelse min på GET Academy har jeg utviklet en
+        text: `Gjennom utdannelsen min på GET Academy har jeg utviklet en
             grunnleggende og solid kompetanse innenfor frontend og backend, med
             spesielt fokus på HTML, CSS , Javascript og C#. Jeg har også lært å
             følge design patterns som MVC og prinsipper som DRY.`,
