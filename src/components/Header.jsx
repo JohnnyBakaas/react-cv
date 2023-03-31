@@ -1,4 +1,5 @@
 import { ReactComponent as GithubLogo } from "../assets/GithubLogo.svg";
+import { ReactComponent as LinkedIn } from "../assets/linkedIn.svg";
 import styled from "styled-components";
 import Content from "./Content";
 
@@ -23,6 +24,9 @@ const Header = (props) => {
       <StyledContent>
         <StyledTitle> {props.name} </StyledTitle>
         <div>
+          <a href="https://www.linkedin.com/in/johnny-bakaas-1a7370250/">
+            <LinkedIn />
+          </a>
           <a href="https://github.com/JohnnyBakaas">
             <GithubLogo />
           </a>
